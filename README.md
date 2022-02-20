@@ -74,5 +74,6 @@ case : FETCH_USER_ERROR
 loading : false
 error: error message
 
-
+REDUX-THUNK :
+define async action create and act as middleware
 

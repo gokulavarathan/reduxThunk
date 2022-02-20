@@ -1,0 +1,25 @@
+{
+  "name": "reduxthunk",
+  "version": "1.0.0",
+  "description": "Regarding thunk",
+  "main": "foundation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokulavarathan/reduxThunk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gokulavarathan/reduxThunk/issues"
+  },
+  "homepage": "https://github.com/gokulavarathan/reduxThunk#readme",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "react-thunk": "^1.0.0",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1"
+  }
+}

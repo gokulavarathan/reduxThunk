@@ -1,0 +1,2 @@
+# reduxThunk
+Regarding thunk
